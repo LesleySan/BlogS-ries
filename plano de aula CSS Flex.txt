@@ -1,0 +1,60 @@
+Plano de Aula: Introdução ao CSS Flexbox
+
+Duração da aula: 60 minutos
+
+Objetivos de Aprendizagem:
+- Compreender os conceitos básicos do CSS Flexbox
+- Aplicar as propriedades do Flexbox para criar layouts flexíveis e responsivos
+- Utilizar as principais propriedades e valores do Flexbox
+
+Recursos Necessários:
+- Computador com navegador web e editor de código instalado
+- Projetor ou tela para exibir o código e demonstrações
+
+Etapas da Aula:
+
+1. Introdução (5 minutos)
+   - Cumprimente os alunos e apresente o tópico da aula: CSS Flexbox.
+   - Explique a importância do Flexbox para criar layouts flexíveis e responsivos.
+   - Mencione que o Flexbox é amplamente suportado pelos navegadores modernos.
+
+2. Conceitos Básicos (10 minutos)
+   - Explique os conceitos básicos do Flexbox:
+     - Elementos flexíveis (flex items) e o contêiner flexível (flex container).
+     - Eixos principais (main axis) e transversais (cross axis).
+     - Propriedades flexíveis, como flex-direction, justify-content e align-items.
+
+3. Configurando o Contêiner Flexível (15 minutos)
+   - Demonstre como criar um contêiner flexível utilizando a propriedade display com o valor flex.
+   - Explique a propriedade flex-direction e seus valores: row, row-reverse, column e column-reverse.
+   - Mostre exemplos de como o flex-direction afeta a direção dos elementos flexíveis.
+
+4. Alinhamento de Itens (15 minutos)
+   - Explique as propriedades justify-content e align-items e seus valores.
+   - Demonstre como essas propriedades podem ser usadas para alinhar os itens ao longo dos eixos principais e transversais.
+   - Mostre exemplos práticos para ilustrar diferentes combinações de valores.
+
+5. Dimensionamento Flexível (10 minutos)
+   - Introduza a propriedade flex e explique como ela pode ser usada para controlar a flexibilidade dos itens flexíveis.
+   - Demonstre como definir flex-grow, flex-shrink e flex-basis para ajustar o dimensionamento dos itens flexíveis.
+   - Mostre exemplos de como essas propriedades afetam o dimensionamento dos itens flexíveis.
+
+6. Exercício Prático (15 minutos)
+   - Divida a turma em grupos e forneça um pequeno desafio de layout usando o Flexbox.
+   - Peça aos alunos para criar um layout flexível que atenda a certas condições, como alinhamento e tamanho dos itens.
+   - Circule pela sala para oferecer ajuda e orientação aos alunos.
+
+7. Conclusão (5 minutos)
+   - Recapitule os principais conceitos e propriedades do Flexbox.
+   - Incentive os alunos a praticar e explorar mais o Flexbox em seus projetos.
+   - Responda a quaisquer perguntas finais dos alunos.
+
+8. Tarefa de Casa
+   - Atribua uma tarefa de casa que envolva a criação de um layout flexível usando o Flexbox.
+   - Peça aos alunos para experimentar diferentes propriedades e valores do Flexbox para aprimorar suas habilidades.
+
+Observações:
+- Certifique-se de adaptar a velocidade da aula de acordo com o nível de conhecimento dos alunos.
+- Forneça recursos adicionais, como tutoriais online e documentação oficial do Flexbox, para que os alunos possam se aprofundar no assunto.
+- Encoraje os alunos a explorar outras propriedades do Flexbox, como flex-wrap e order, por conta própria.
+- Se possível, compartilhe exemplos visuais e interativos durante a aula para tornar os conceitos mais compreensíveis.
